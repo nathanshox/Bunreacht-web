@@ -1,0 +1,43 @@
+body {
+    background: #107BA5;
+    color: white;
+    font-family: Arial;
+}
+  
+h1 {  
+    color: white;
+    font-family: Palatino, Heiti SC;
+    font-variant: small-caps;
+}
+
+h2 {  
+    color: white;
+    font-family: Palatino, Heiti SC;
+}
+
+#screenshot {
+    margin-top: 30px;
+}
+
+#screenshot, #footer {
+    margin-bottom: 30px;
+}
+
+#harp {
+    margin-top: 60px;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
